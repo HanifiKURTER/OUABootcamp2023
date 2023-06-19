@@ -17,7 +17,7 @@ Takım Flutter 62
 
 ## Product Backlog URL
 
-[Flutter Team 62 Miro Backlog Board](https://miro.com/app/board/uXjVO4kRs2w=/)
+
 
 ## Ürün Açıklaması
 
@@ -68,7 +68,7 @@ Scrap App, daire sakinleri tarafından biriktirilmiş apartman ve sitelere ait k
 - **Ürün Durumu**: Ekran görüntüleri 
 - ![Screenshot 1](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/product1.png)
   ![Screenshot 2](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/product2.png)
-  ![Screenshot 3](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/product4.gif)
+
 - **Sprint Review**: 
 Alınan kararlar: Kullanıcı temel sayfaları oluşturulmuş, bazıları kodlanmış, arduino kurulumu ve firebase'e bağlanması sağlanmış, uygulama için veritabanı olarak firebase servisleri aktif edilmiş ve eksiklikler değerlendirilmiştir. Sprint Review katılımcıları: Mustafa Aksoy
 
@@ -83,7 +83,5 @@ Alınan kararlar: Kullanıcı temel sayfaları oluşturulmuş, bazıları kodlan
 
 ## Product Backlog URL
 
-[Flutter Team 52 Miro Backlog Board](https://miro.com/app/board/uXjVO4kRs2w=/)
 
----
 
