@@ -28,7 +28,8 @@ Machine App, karmaşık işlemleri daha basamaklı ve pratik şekilde çocuklar�
 - Aynı anda birden fazla işlem yapmak
 - İşlemleri basamak haline getirip sistematik hâle getiriyor.
 - İşlemleri gösterişli hale getirerek, resimli olarak sunuyor.
-- 
+
+  
 ## Hedef Kitle
 
 
