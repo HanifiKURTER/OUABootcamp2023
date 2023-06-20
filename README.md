@@ -47,7 +47,7 @@ Machine App, karmaşık işlemleri daha basamaklı ve pratik şekilde çocuklar�
 ---
 
 # Sprint 1
- Sprint notları : User storyler backlog içinde mirodadır.
+- **Sprint notları**: User storyler backlog içinde mirodadır.
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
 
