@@ -56,14 +56,14 @@ Machine App, karmaşık işlemleri daha basamaklı ve pratik şekilde çocuklar�
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx?raw=true)
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/HanifiKURTER/OUABootcamp2023/blob/main/projectmanagement/sprint1/konusmalar.docx)
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/Bootcamp2022Example/main/ProjectManagement/Sprint1Documents/backlog1.png) 
+![Backlog 1](https://github.com/HanifiKURTER/OUABootcamp2023/blob/main/projectmanagement/sprint1/backlog.jpg) 
 
 
 - **Ürün Durumu**: Ekran görüntüleri 
-- ![Screenshot 1](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/product1.png)
+- ![Screenshot 1](https://github.com/HanifiKURTER/OUABootcamp2023/blob/main/projectmanagement/sprint1/product1.png)
 
 
 - **Sprint Review**: 
@@ -80,5 +80,8 @@ Alınan kararlar: Kullanıcı temel sayfaları oluşturulmuş, bazıları kodlan
 
 ## Product Backlog URL
 
+[Flutter Team 62 Miro Backlog Board](https://miro.com/app/board/uXjVM9VKOdE=/)
+
+---
 
 
