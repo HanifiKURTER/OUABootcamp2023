@@ -59,11 +59,11 @@ Machine App, karmaşık işlemleri daha basamaklı ve pratik şekilde çocuklar�
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/HanifiKURTER/OUABootcamp2023/blob/main/projectmanagement/sprint1/konusmalar.docx)
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://github.com/HanifiKURTER/OUABootcamp2023/blob/main/projectmanagement/sprint1/backlog.jpg) 
+![Backlog 1](https://github.com/HanifiKURTER/OUABootcamp2023/blob/main/projectmanagement/sprint1/WhatsApp%20Image%202023-06-22%20at%2011.46.41.jpeg) 
 
 
 - **Ürün Durumu**: Ekran görüntüleri 
-- ![Screenshot 1](https://github.com/HanifiKURTER/OUABootcamp2023/blob/main/projectmanagement/sprint1/product1.png)
+- ![Screenshot 1](projectmanagement/sprint1/WhatsApp Image 2023-06-22 at 11.46.41.jpeg)
 
 
 - **Sprint Review**: 
