@@ -101,7 +101,7 @@ Alınan kararlar: Kullanıcı temel sayfaları oluşturulmuş, bazıları kodlan
   ![Screenshot 4](https://github.com/HanifiKURTER/OUABootcamp2023/blob/main/projectmanagement/sprint2/WhatsApp%20Image%202023-06-25%20at%2017.50.05.jpeg)
   ![Screenshot 5](https://github.com/HanifiKURTER/OUABootcamp2023/blob/main/projectmanagement/sprint2/WhatsApp%20Video%202023-06-25%20at%2017.50.03.gif)
 - **Sprint Review**: 
-Alınan kararlar: Kullanıcı temel sayfaların arayüzleri, algoritmaları kodlanmış, firebase servislerine bağlantıları yapılmış ve eksiklikleri değerlendirilmiştir. 
+Alınan kararlar: Kullanıcı temel sayfaların arayüzleri, algoritmaları kodlanmış ve eksiklikleri değerlendirilmiştir. 
 
 - **Sprint Retrospective:**
 
