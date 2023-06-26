@@ -59,7 +59,7 @@ Machine App, karmaşık işlemleri daha basamaklı ve pratik şekilde çocuklar�
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/HanifiKURTER/OUABootcamp2023/blob/main/projectmanagement/sprint1/konusmalar.docx)
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://github.com/HanifiKURTER/OUABootcamp2023/blob/main/projectmanagement/sprint1/WhatsApp%20Image%202023-06-22%20at%2011.46.41.jpeg) 
+![Backlog 1](https://github.com/HanifiKURTER/OUABootcamp2023/blob/main/projectmanagement/sprint1/backlog.jpg) 
 
 
 - **Ürün Durumu**: Ekran görüntüleri 
@@ -85,7 +85,7 @@ Alınan kararlar: Kullanıcı temel sayfaları oluşturulmuş, bazıları kodlan
 ---
 # Sprint 2
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 120 Puan
+- **Sprint içinde tamamlanması tahmin edilen puan**: 30 Puan
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint2Documents/DailyScrumMeetingNotesSprint2.docx?raw=true)
 
@@ -94,9 +94,11 @@ Alınan kararlar: Kullanıcı temel sayfaları oluşturulmuş, bazıları kodlan
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint2Documents/1.jpeg)
-  ![Screenshot 2](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint2Documents/2.jpeg)
-  ![Screenshot 3](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint2Documents/3.jpeg)
+  ![Screenshot 1](https://github.com/HanifiKURTER/OUABootcamp2023/blob/main/projectmanagement/sprint2/WhatsApp%20Image%202023-06-25%20at%2017.50.04%20(1).jpeg)
+  ![Screenshot 2](https://github.com/HanifiKURTER/OUABootcamp2023/blob/main/projectmanagement/sprint2/WhatsApp%20Image%202023-06-25%20at%2017.50.04%20(2).jpeg)
+  ![Screenshot 3](https://github.com/HanifiKURTER/OUABootcamp2023/blob/main/projectmanagement/sprint2/WhatsApp%20Image%202023-06-25%20at%2017.50.04.jpeg)
+  ![Screenshot 4](https://github.com/HanifiKURTER/OUABootcamp2023/blob/main/projectmanagement/sprint2/WhatsApp%20Image%202023-06-25%20at%2017.50.05.jpeg)
+  ![Video](https://github.com/HanifiKURTER/OUABootcamp2023/blob/main/projectmanagement/sprint2/WhatsApp%20Video%202023-06-25%20at%2017.50.03.mp4)
 - **Sprint Review**: 
 Alınan kararlar: Kullanıcı temel sayfaların arayüzleri, algoritmaları kodlanmış, firebase servislerine bağlantıları yapılmış ve eksiklikleri değerlendirilmiştir. 
 Sprint Review katılımcıları: Mustafa Aksoy, Yunus Emre Gürel, Sümeyye Aydoğan 
@@ -110,7 +112,7 @@ Sprint Review katılımcıları: Mustafa Aksoy, Yunus Emre Gürel, Sümeyye Aydo
 
 ## Product Backlog URL
 
-[Flutter Team 62 Miro Backlog Board](https://miro.com/app/board/uXjVO4kRs2w=/)
+[Flutter Team 62 Miro Backlog Board](https://miro.com/app/board/uXjVM9VKOdE=/)
 
 ---
 
