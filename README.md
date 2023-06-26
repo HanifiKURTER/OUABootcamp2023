@@ -85,6 +85,7 @@ Alınan kararlar: Kullanıcı temel sayfaları oluşturulmuş, bazıları kodlan
 ---
 # Sprint 2
 
+- **Sprint notları**: User storyler backlog içinde mirodadır.
 - **Sprint içinde tamamlanması tahmin edilen puan**: 30 Puan
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://github.com/HanifiKURTER/OUABootcamp2023/blob/main/projectmanagement/sprint2/dailyscrum2/Belge1.docx)
