@@ -122,9 +122,8 @@ Alınan kararlar: Kullanıcı temel sayfaların arayüzleri, algoritmaları kodl
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint3Documents/1.png)
-  ![Screenshot 2](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint3Documents/2.png)
-  ![Screenshot 3](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint3Documents/3.png)
+  ![Screenshot 1](https://github.com/HanifiKURTER/OUABootcamp2023/blob/main/projectmanagement/sprint3/Screenshot_1689525868.png)
+  ![Screenshot 2](https://github.com/HanifiKURTER/OUABootcamp2023/blob/main/projectmanagement/sprint3/WhatsApp-Video-2023-07-16-at-18.24.24.gif)
 
 
 - **Sprint Review**: 
