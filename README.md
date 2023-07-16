@@ -127,7 +127,7 @@ Alınan kararlar: Kullanıcı temel sayfaların arayüzleri, algoritmaları kodl
 
 
 - **Sprint Review**: 
-Alınan kararlar: Kullanıcı temel sayfaların arayüzleri, algoritmaları kodlanmış, firebase servislerine bağlantıları yapılmış ve tamamlanamayan sayfa, algoritma ve servis bağlantıları değerlendirilmiştir. 
+Alınan kararlar: Temel sayfa arayüzü, algoritmaları kodlanmış ve tamamlanamayan sayfa, algoritma bağlantıları değerlendirilmiştir. 
 Sprint Review katılımcıları: Muhammet Hanifi Kurter, Dilek Ceylan, Buket Akdağ
 
 - **Sprint Retrospective:**
