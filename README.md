@@ -88,7 +88,7 @@ Alınan kararlar: Kullanıcı temel sayfaları oluşturulmuş, bazıları kodlan
 - **Sprint notları**: User storyler backlog içinde mirodadır.
 - **Sprint içinde tamamlanması tahmin edilen puan**: 30 Puan
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 200 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in en azından 30 ile devam etmesi gerektiğine karar verildi.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 130 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in en azından 30 ile devam etmesi gerektiğine karar verildi.
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://github.com/HanifiKURTER/OUABootcamp2023/blob/main/projectmanagement/sprint2/dailyscrum2/Belge1.docx)
 
@@ -113,7 +113,7 @@ Alınan kararlar: Kullanıcı temel sayfaların arayüzleri, algoritmaları kodl
 
 - **Sprint notları**: User storyler backlog içinde mirodadır.
 - **Sprint içinde tamamlanması tahmin edilen puan**: Bu sprint için toplam puan: 30'dur.
-
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 130 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde üçüncü sprint'in en azından 30 ile devam etmesi gerektiğine karar verildi.
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 3 Daily Scrum Chats](https://github.com/HanifiKURTER/OUABootcamp2023/blob/main/projectmanagement/sprint3/sprint3.docx)
 
