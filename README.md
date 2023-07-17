@@ -118,7 +118,7 @@ Alınan kararlar: Kullanıcı temel sayfaların arayüzleri, algoritmaları kodl
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 3 Daily Scrum Chats](https://github.com/HanifiKURTER/OUABootcamp2023/blob/main/projectmanagement/sprint3/sprint3.docx)
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint3Documents/2022-06-06%2000_19_38-Clipboard.png) 
+![Backlog 1](https://github.com/HanifiKURTER/OUABootcamp2023/blob/main/projectmanagement/sprint3/IMG_20230717_114655.jpg) 
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
