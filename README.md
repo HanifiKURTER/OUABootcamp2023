@@ -1,7 +1,7 @@
 
 # **Takım İsmi**
 
-Takım Flutter 62
+Takım Flutter 62(Rabbit)
 
 # Ürün İle İlgili Bilgiler
 
@@ -22,7 +22,8 @@ Takım Flutter 62
 
 ## Ürün Açıklaması
 
-Machine App, karmaşık işlemleri daha basamaklı ve pratik şekilde çocukların zihinsel gelişimine yönelik olarak oyunlaştırarak hem zihinsel hem de bilişsel olarak daha kolay şekilde matematiksel beceri kazanacaktır.
+Machine App, karmaşık işlemleri daha basamaklı, pratik şekilde gerçekleştirmeyi ve bunları alt kısımda açılan notlar kısmına kaydetmeyi sağlıyor. Matematikte limit fonksiyonunu daha işlevsel hale getirerek Matematikle uğraşan herkese(Akademisyenler, Öğretmenler, Öğrenciler vb.) işlem kolaylığı sağlamaktadır.
+
 ## Ürün Özellikleri
 
 - Aynı anda birden fazla işlem yapmak
@@ -34,16 +35,12 @@ Machine App, karmaşık işlemleri daha basamaklı ve pratik şekilde çocuklar�
 
 
 - Matematik Öğretmenleri
+- Akademisyenler
 - Matematiksel işlemde zorlanan öğrenciler
 
 
 
 
-
-
-## Juriye Not
-
-İlan formu veritabanına başarılı şekilde veri göndermesine rağmen, tecrübe yetersizliği ve zaman eksikliği sebebiyle ilanlar listesi ve teklif formları veritabanıyla ilişkilendirilememiştir.
 
 
 ---
@@ -83,6 +80,8 @@ Alınan kararlar: Kullanıcı temel sayfaları oluşturulmuş, bazıları kodlan
 [Flutter Team 62 Miro Backlog Board](https://miro.com/app/board/uXjVM9VKOdE=/)
 
 ---
+
+
 # Sprint 2
 
 - **Sprint notları**: User storyler backlog içinde mirodadır.
@@ -108,6 +107,17 @@ Alınan kararlar: Kullanıcı temel sayfaların arayüzleri, algoritmaları kodl
 - **Sprint Retrospective:**
 
 - Takım üyelerinin gelecek sprintlerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
+
+---
+
+
+  ## Product Backlog URL
+
+[Flutter Team 62 Miro Backlog Board](https://miro.com/app/board/uXjVM9VKOdE=/)
+
+
+---
+
 
 # Sprint 3
 
